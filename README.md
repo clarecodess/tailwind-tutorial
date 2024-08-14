@@ -134,4 +134,4 @@ document.querySelectorAll('nav a').forEach(anchor => {
 ```
 
 ## In Conclusion
-Using this guide, you’ve created a modern, responsive personal portfolio website using Tailwind CSS and JavaScript. Keep experimenting with different designs and features to make your portfolio truly unique.
+Keep experimenting with different Tailwind classes and features to make your portfolio truly unique.
